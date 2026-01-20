@@ -1,0 +1,10 @@
+sympy==1.13.3
+pandas==2.2.3
+ipykernel==6.29.5
+scikit-learn==1.6.1
+scipy==1.14.1
+matplotlib==3.10.1
+seaborn==0.13.2
+fitter==1.7.1
+numpy==1.26.4
+statsmodels==0.14.4
